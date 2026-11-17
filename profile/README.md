@@ -26,7 +26,7 @@
 
 ## ⚡ Tentang Kilat Cloud
 
-**PT Kilat Cloud Indonesia** adalah penyedia cloud computing Indonesia yang berbasis di **Batam, Kepulauan Riau**. Kami membangun infrastruktur cloud untuk developer, startup, sekolah, dan bisnis di Indonesia — cepat, andal, dan dengan dukungan lokal.
+**PT Kilat Cloud Indonesia** adalah penyedia cloud computing Indonesia yang berbasis di **Batam, Kepulauan Riau**. Kami membangun infrastruktur cloud untuk developer, startup, dan bisnis di Indonesia — cepat, andal, dan dengan dukungan lokal.
 
 > Cloud Computing — dibuat di Indonesia, untuk Indonesia.
 
@@ -40,7 +40,7 @@
 | **Comms** | WhatsApp Gateway, Social Media API, Email / SMTP transactional |
 | **Web & Data** | Domain, Managed Database |
 | **AI** | AI Router — satu API, 662 AI model |
-| **Payments** | Kilat Pay (payment link & merchant), Marketplace + Affiliate, SIPLah |
+| **Payments** | Kilat Pay (payment link & merchant), Marketplace + Affiliate |
 
 ## 🧑‍💻 Open Source
 
@@ -49,7 +49,7 @@ Repo publik kami di organisasi ini:
 | Repo | Deskripsi |
 | --- | --- |
 | [**dapodik-sdk-go**](https://github.com/PT-KILAT-CLOUD-INDONESIA/dapodik-sdk-go) | SDK Go (unofficial) untuk WebService Dapodik Kemendikdasmen — port Go dari dapodik-sdk Python v1.1.0. Zero external dependencies. |
-| [**kilatmesh-agent**](https://github.com/PT-KILAT-CLOUD-INDONESIA/kilatmesh-agent) | KilatMesh Agent — agen konektivitas sekolah PT Kilat Cloud Indonesia. |
+| [**kilatmesh-agent**](https://github.com/PT-KILAT-CLOUD-INDONESIA/kilatmesh-agent) | KilatMesh Agent — agen konektivitas PT Kilat Cloud Indonesia. |
 | [**SDK-GO-KTC**](https://github.com/PT-KILAT-CLOUD-INDONESIA/SDK-GO-KTC) | SDK Go Kilat Cloud. |
 
 ## 🛠️ Tech Stack
